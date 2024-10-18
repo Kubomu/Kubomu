@@ -47,7 +47,7 @@ I’m a passionate software developer with a focus on:
 
 ## 📈 GitHub Stats:
 
-![Kubomu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kubomu&show_icons=true&theme=dark)
+![Kubomu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ku&show_icons=true&theme=dark)
 
 ![Kubomu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kubomu&layout=compact&theme=dark)
 
