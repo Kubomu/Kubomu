@@ -4,7 +4,7 @@ I’m a passionate software developer with a focus on:
 
 - 💻 **Full-Stack Development**: Django, Python, HTML, CSS, JavaScript, React
 - 🛠 **Embedded Systems & IoT**
-- 🔐 **Blockchain technology**
+- 🔐 **Blockchain technology**: Smart Contracts, Ethereum
 - 📊 **Database Management**: MySQL, PostgreSQL
 - 🏗 **Building web apps, real-time systems, and tech solutions**
 - 💼 **CEO at Cruise Tech Solutions**
@@ -12,6 +12,7 @@ I’m a passionate software developer with a focus on:
 ## 🚀 Current Projects:
 
 - 🔧 **Hotel Management System** using Python Django, React, and PostgreSQL
+- 🔗 **Supply Chain Tracker App** using Python, Flask/Django, and Ethereum smart contracts
 
 ## 🛠 Tech Stack:
 
@@ -24,7 +25,6 @@ I’m a passionate software developer with a focus on:
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=oracle&logoColor=white)
-
 
 ### Frameworks:
 
@@ -55,8 +55,10 @@ I’m a passionate software developer with a focus on:
 
 ## 🌱 What I’m Learning:
 
-- 🌐 **Advanced Web Development with React**
+- 🌐 **Web3**
 - 📱 **Mobile App Development with Kotlin**
+- 🔗 **Blockchain** (Smart Contracts and Ethereum)
+- 🏗 **Supply Chain Management** (Using Python and Ethereum)
 
 ## 🌐 Connect with Me:
 
