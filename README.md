@@ -9,4 +9,4 @@
 ## 🌐 Connect with Me:
 
 - [X](https://x.com/KubomuEdi)
-- [Portfolio](https://main.d29iii5eeiyzey.amplifyapp.com/)
+
