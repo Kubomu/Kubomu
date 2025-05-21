@@ -1,12 +1,10 @@
 # Jambo, I’m Kubomu!
 
-## 📈 GitHub Stats:
-
-![Kubomu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kubomu&show_icons=true&theme=dark)
-
-![Kubomu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kubomu&layout=compact&theme=dark)
+Welcome to my GitHub! I'm passionate about software development, automation, and building impactful digital solutions.
 
 ## 🌐 Connect with Me:
 
-- [X](https://x.com/KubomuEdi)
+- 🌍 [Website – kubomu.com](https://kubomu.com)
+- 🐦 [X (formerly Twitter) – @KubomuEdi](https://x.com/KubomuEdi)
+
 
